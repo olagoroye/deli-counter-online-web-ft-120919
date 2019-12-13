@@ -1,6 +1,7 @@
 # Write your code here.
 
  katz_deli = []
+<<<<<<< HEAD
  
  def line(array)
   if array.length >= 1
@@ -34,3 +35,11 @@ end
 
 
 
+=======
+ def line(array)
+   if array.length == 0 
+     puts "The line is currently empty."
+  
+   
+ end
+>>>>>>> 24f518556730012200e596b9df7bb46d39c11e69
